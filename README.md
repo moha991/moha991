@@ -77,7 +77,7 @@
     <tr>
         <td>Pipex</td>
         <td>
-            <a href="https://github.com/JaeSeoKim/badge42">
+            <a href="[https://github.com/JaeSeoKim/badge42](https://github.com/moha991/Pipex42)">
                 <img src="https://badge42.vercel.app/api/v2/cllavs3vt003008mlhaww7hwd/project/3031962" alt="mfornah's 42 pipex Score" />
             </a>
         </td>
