@@ -14,3 +14,55 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moha991&show_icons=true&locale=en&layout=compact" alt="moha991" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moha991&show_icons=true&locale=en" alt="moha991" /></p>
+
+
+
+--------
+
+
+<p align="center">
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cllavs3vt003008mlhaww7hwd/stats?cursusId=21&coalitionId=64" alt="mfornah's 42 stats" /></a>
+</p>
+
+<table align="center">
+  <tr>
+    <th>Project Name</th>
+    <th>Score</th>
+  </tr>
+  <tr>
+    <td>Libft</td>
+    <td>
+      <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cllavs3vt003008mlhaww7hwd/project/2785126" alt="mfornah's 42 Libft Score" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>ft_printf</td>
+    <td>
+      <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cllavs3vt003008mlhaww7hwd/project/2867253" alt="mfornah's 42 ft_printf Score" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>get_next_line</td>
+    <td>
+      <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cllavs3vt003008mlhaww7hwd/project/3015962" alt="mfornah's 42 get_next_line Score" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Born2beroot</td>
+    <td>
+      <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cllavs3vt003008mlhaww7hwd/project/2867253" alt="mfornah's 42 ft_printf Score" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Push_swap</td>
+    <td>
+      <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cllavs3vt003008mlhaww7hwd/project/3143965" alt="mfornah's 42 push_swap Score" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>so_long</td>
+    <td>
+     <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cllavs3vt003008mlhaww7hwd/project/3216436" alt="mfornah's 42 so_long Score" /></a>
+    </td>
+  </tr>
+</table>
